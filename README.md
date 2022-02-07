@@ -21,6 +21,7 @@ const rhamanda = {
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhamandalima/)](https://www.linkedin.com/in/rhamandalima/)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhamandaLima&hide=TeX&layout=compact)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhamandalima/)](https://www.linkedin.com/in/rhamandalima/)
