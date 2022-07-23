@@ -14,7 +14,7 @@ I'm a Front-End Developer from Brazil (🇧🇷).
 
 ```javascript
 const rhamanda = {
-  code: [JavaScript, HTML, CSS],
+  code: [Angular, JavaScript, HTML, CSS],
   challenge: "Code better everyday!"
 }
 ```
