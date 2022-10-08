@@ -22,7 +22,7 @@ const rhamanda = {
 }
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhamandaLima&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhamandaLima&layout=compact)
 
 Would you like to find me?
 
