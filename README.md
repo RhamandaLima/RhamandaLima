@@ -23,7 +23,7 @@ const rhamanda = {
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhamandaLima&langs_count=9&layout=compact)
-<a height="50em" href="http://www.github.com/RhamandaLima"><img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RhamandaLima&stroke=grey&theme=grey&ring=3985EE&fire=3985EE&currStreakNum=black&currStreakLabel=3985EE&sideNums=black&sideLabels=3985EE&dates=black&hide_border=false"/></a>
+<a height="50em" href="http://www.github.com/RhamandaLima"><img height="164em" src="https://github-readme-streak-stats.herokuapp.com/?user=RhamandaLima&stroke=grey&theme=grey&ring=3985EE&fire=3985EE&currStreakNum=black&currStreakLabel=3985EE&sideNums=black&sideLabels=3985EE&dates=black&hide_border=false"/></a>
 
 
 Would you like to find me?
