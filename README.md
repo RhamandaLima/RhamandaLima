@@ -1,10 +1,9 @@
 ### Hello world, I'm Rhamanda Lima! 
 
-I'm a Front-End Developer from Brazil (🇧🇷).
+I'm a Front-End Engineer from Brazil (🇧🇷).
 
 ## Skills:
-- Front-End Developer
-
+- Front-End Engineer
 
 **Languages:**  
 
@@ -12,12 +11,13 @@ I'm a Front-End Developer from Brazil (🇧🇷).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ### About me
 
 ```javascript
 const rhamanda = {
-  code: [Angular, JavaScript, TypeScript, HTML, CSS, Vue],
+  code: [Angular, React, JavaScript, TypeScript, HTML, CSS, Vue],
   challenge: "Code better everyday!"
 }
 ```
