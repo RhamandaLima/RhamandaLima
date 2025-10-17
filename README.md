@@ -1,23 +1,25 @@
 ### Hello world, I'm Rhamanda Lima! 
 
-I'm a Front-End Engineer from Brazil (🇧🇷).
+I'm a Software Engineer from Brazil (🇧🇷).
 
 ## Skills:
-- Front-End Engineer
+- Front-End Engineer;
+- Back-End Engineer.
 
 **Languages:**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 ### About me
 
 ```javascript
 const rhamanda = {
-  code: [Angular, React, JavaScript, TypeScript, HTML, CSS, Vue],
+  code: [Java, Spring Boot, JavaScript, TypeScript, Angular, React, Vue],
   challenge: "Code better everyday!"
 }
 ```
